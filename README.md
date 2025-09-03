@@ -1,4 +1,4 @@
-# Meu Portfólio
+# Meu Portfólio 
 
 Aqui você pode conhecer meus projetos, habilidades e um pouco sobre mim como desenvolvedor.
 
@@ -6,7 +6,7 @@ Aqui você pode conhecer meus projetos, habilidades e um pouco sobre mim como de
 
 ## 🛠 Tecnologias Utilizadas
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+### Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [React](https://reactjs.org/) – Biblioteca JavaScript para construção de interfaces.
 - [Tailwind CSS](https://tailwindcss.com/) – Framework CSS utilitário para estilização rápida e responsiva.
